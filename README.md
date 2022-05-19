@@ -3,7 +3,7 @@
 ✨ Looking for work ✨
 
 - I co-own [GDI Software](https://gdisoftware.com)
-- I created [useless-js](https://github.com/useless-js)
+- I created [useless-js](https://github.com/useless-js) ([YouTube Channel](https://www.youtube.com/channel/UCAeVZXezCZDPXYDTHVNAXDQ))
 - I have a Doctor of Pharmacy (2020)
 - I can be reached at: daniel.ibrahim@gdisoftware.com
 
