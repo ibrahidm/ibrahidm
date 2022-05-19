@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello!
+
+- I co-own [GDI Software](https://gdisoftware.com)
+- I created [useless-js](https://github.com/useless-js)
+
+Looking for work!
 
 <!--
 **ibrahidm/ibrahidm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
