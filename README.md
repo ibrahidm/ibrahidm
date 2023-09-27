@@ -1,6 +1,6 @@
 ### About Me
 
-✨ Looking for work ✨
+Med Student, Pharmacist, and Software Engineer! 
 
 - I co-own [GDI Software](https://gdisoftware.com)
 - I created [useless-js](https://github.com/useless-js) ([YouTube Channel](https://www.youtube.com/channel/UCAeVZXezCZDPXYDTHVNAXDQ))
