@@ -2,9 +2,7 @@
 
 Med Student, Pharmacist, and Software Engineer! 
 
-- I co-own [GDI Software](https://gdisoftware.com)
-- I created [useless-js](https://github.com/useless-js) ([YouTube Channel](https://www.youtube.com/channel/UCAeVZXezCZDPXYDTHVNAXDQ))
-- I can be reached at: daniel.ibrahim@gdisoftware.com
+Check out [Examocron](https://www.examocron.com), a study tool I created! 
 
 <!--
 **ibrahidm/ibrahidm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
